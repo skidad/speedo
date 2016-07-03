@@ -6,6 +6,9 @@ built magnetic revolution sensor on a bicycle wheel, converting analog
 to digital using an Arduino, passing that data via USB to a Android
 handset to be displayed using qpython.
 
+## Status(2016-07-03)
+Defined project. 
+
 ## Things to do
 - Resurect the arduino code that reads from the revolution
 sensor
@@ -13,3 +16,5 @@ sensor
 including how the revolution sensor was built.
 - Figure out how to read USB from python on android.
 - Figure out how to display speed data from python on android.
+- Add a license to the project
+- Add a .gitignore to the project.
