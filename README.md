@@ -7,7 +7,7 @@ to digital using an Arduino, passing that data via USB to a Android
 handset to be displayed using qpython.
 
 ## Status(2016-07-06)
-Have code that uses serial to make arduino blink
+Have code that uses serial read serial from arduino (pythoDetector)
 Have code that reads pulses from bicycle wheel.
 Want to work on displaying big font from python.
 no work on android yet.  
